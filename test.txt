@@ -1,0 +1,1 @@
+plik 1/dev/sda1       /               ext4    defaults,fsc,udp          1       1
